@@ -9,3 +9,6 @@ theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://ayounsome.github.io"
 
+future: true
+
+
