@@ -2,13 +2,6 @@
 layout: default
 title: Raw Thots
 ---
-
-# Raw Thots
-
-A personal archive of thoughts, emotions, and musings written over a few years.
-
----
-
 ## Recent Posts
 
 <ul>
