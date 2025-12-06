@@ -1,6 +1,8 @@
 ---
 title: "Love, in All Its Shades"
 date: 2025-12-07
+author: "Shruti"
+tags: [love, peace, yearning]
 ---
 **Love.**  
 It’s such a wild thing to feel, to believe in. Isn’t it something that drenches you in the chaos the world throws at you, and yet you don’t care? You’d rather wrap your arms around your better half, let them feel the dampness of your chaos, and allow them to be a part of it.
